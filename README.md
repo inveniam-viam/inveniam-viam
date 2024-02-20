@@ -4,7 +4,7 @@
 
 Former jack of all trades, master of none. That's just a way of describing my previous lives. I've:
 - 📚 been a university librarian at [Drexel](https://drexel.edu)
-- 🔌 worked on power relay research and development at [SEL,Inc](https://selinc.com)
+- 🔌 worked on power relay devices used in deep oil fields at [SEL,Inc](https://selinc.com)
 - 📈 spent a year on the trading floor working with electricity options trading at [SIG](https://sig.com)
 - 🚚 helped set up the product analytics stack for a [pre-seed startup](https://ziki.kitchen) that brought food trucks onto the online marketplace
 - 🏥 built parsers for electronic medical records in an attempt to mitigate wasted debt at [OODA Health](https://www.cedar.com/all-press/cedar-announces-agreement-to-acquire-ooda-health-to-revolutionize-the-consumer-financial-experience-in-healthcare-2/)
