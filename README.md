@@ -12,7 +12,7 @@ Former jack of all trades, master of none. That's just a way of describing my pr
 - 🥦 been the primary technical liaison for a product team at [Amazon Fresh](https://www.amazon.com/fmc/storefront?almBrandId=QW1hem9uIEZyZXNo) and [Whole Foods Market](https://www.wholefoodsmarket.com)
 - 🇺🇸 lived in Philly, New York and Chicago
 
-Currently spending more time on writing code and shipping things I love or find interesting.
+Currently spending more time on writing code and shipping things I love or find interesting. **I'm currently working on cleaning up some private repositories to showcase my development work.**
 
 #### Skillset
 - Frontend: HTML/CSS, JavaScript (currently picking up React)
