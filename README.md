@@ -15,8 +15,8 @@ Former jack of all trades, master of none. That's just a way of describing my pr
 Currently spending more time on writing code and shipping things I love or find interesting.
 
 #### Skillset
-- Frontend: HTML/CSS, JavaScript
-- Backend: Python (Flask, FastAPI), PHP (currently picking up Symfony)
+- Frontend: HTML/CSS, JavaScript (currently picking up React)
+- Backend: Python (Flask, FastAPI), PHP (currently picking up Symfony), Java
 - Data (Analysis): Python (pandas, polars, numpy), R
 - Data (Querying): SQL (MySQL, Redshift, Postgres, SQLite), DuckDB, MongoDB, Google BigQuery, Metabase
 - Data (Conceptual): Schema Design, Performant Query Design, SQL-based Design Patterning, Indexing
