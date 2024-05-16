@@ -1,6 +1,6 @@
 ### Bonjour Hi!
 
-🇲🇶🇲🇶 Currently a graduate student at McGill University 🇲🇶🇲🇶
+🇨🇦🇨🇦 Currently a graduate student at McGill University 🇨🇦🇨🇦
 
 Former jack of all trades, master of none. That's just a way of describing my previous lives. I've:
 - 📚 been a university librarian at [Drexel](https://drexel.edu)
@@ -13,6 +13,14 @@ Former jack of all trades, master of none. That's just a way of describing my pr
 - 🇺🇸 lived in Philly, New York and Chicago
 
 Currently spending more time on writing code and shipping things I love or find interesting.
+
+#### Skillset
+- Frontend: HTML/CSS, JavaScript
+- Backend: Python (Flask, FastAPI), PHP (currently picking up Symfony)
+- Data (Analysis): Python (pandas, polars, numpy), R
+- Data (Querying): SQL (MySQL, Redshift, Postgres, SQLite), DuckDB, MongoDB, Google BigQuery
+- Data (Conceptual): Schema Design, Performant Query Design, SQL-based Design Patterning, Indexing
+- Others: Docker, Apache Kafka, Databricks, AWS Products
 
 
 
