@@ -1,3 +1,5 @@
+### 🏗️🚧 Under Maintenance 🚧🏗️
+
 ### Bonjour Hi!
 
 🇨🇦🇨🇦 Currently a graduate student at McGill University 🇨🇦🇨🇦
@@ -14,7 +16,7 @@ Former jack of all trades, master of none. That's just a way of describing my pr
 
 Currently spending more time on writing code and shipping things I love or find interesting. **I'm currently working on cleaning up some private repositories to showcase my development work.**
 
-#### Skillset
+#### Skillset (links redirect to a project built using the corresponding language/framework/tool)
 - Frontend: HTML/CSS, JavaScript (currently picking up React)
 - Backend: Python (Flask, FastAPI), PHP (currently picking up Symfony), Java
 - Data (Analysis): Python (pandas, polars, numpy), R
