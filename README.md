@@ -8,7 +8,7 @@ Former jack of all trades, master of none. That's just a way of describing my pr
 - 📈 spent a year on the trading floor working with energy securities (mainly electricity and natural gas) at [SIG](https://sig.com)
 - 🚚 helped set up the product analytics stack for a [pre-seed startup](https://ziki.kitchen) that brought food trucks onto the online marketplace
 - 🏥 built parsers for electronic medical records in an attempt to mitigate wasted debt at [OODA Health](https://www.cedar.com/all-press/cedar-announces-agreement-to-acquire-ooda-health-to-revolutionize-the-consumer-financial-experience-in-healthcare-2/)
-- 🏥 overseen data products handling medical bills for millions of Americans at [Cedar](https://www.cedar.com)
+- 🏥 been the youngest product manager, overseeing data products handling medical bills for millions of Americans at [Cedar](https://www.cedar.com)
 - 🥦 been the primary technical liaison for a product team at [Amazon Fresh](https://www.amazon.com/fmc/storefront?almBrandId=QW1hem9uIEZyZXNo) and [Whole Foods Market](https://www.wholefoodsmarket.com)
 - 🇺🇸 lived in Philly, New York and Chicago
 
@@ -18,9 +18,11 @@ Currently spending more time on writing code and shipping things I love or find 
 - Frontend: HTML/CSS, JavaScript
 - Backend: Python (Flask, FastAPI), PHP (currently picking up Symfony)
 - Data (Analysis): Python (pandas, polars, numpy), R
-- Data (Querying): SQL (MySQL, Redshift, Postgres, SQLite), DuckDB, MongoDB, Google BigQuery
+- Data (Querying): SQL (MySQL, Redshift, Postgres, SQLite), DuckDB, MongoDB, Google BigQuery, Metabase
 - Data (Conceptual): Schema Design, Performant Query Design, SQL-based Design Patterning, Indexing
-- Others: Docker, Apache Kafka, Databricks, AWS Products
+- Visualization: Looker, Evidence, Microsoft Power BI, Metabase, Python (matplotlib, seaborn), R (ggplot2)
+- Product Management: JIRA, Airtable, Smartsheet, Salesforce
+- Others: Docker, Apache Kafka, Databricks, AWS Products, Figma + Canva (for design)
 
 
 
